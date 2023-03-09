@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maksymmf/maksymmf.github.io-react-redux/static/css/main.1de7d2ca.css",
+    "main.js": "/maksymmf/maksymmf.github.io-react-redux/static/js/main.de830b7d.js",
+    "static/js/787.01782395.chunk.js": "/maksymmf/maksymmf.github.io-react-redux/static/js/787.01782395.chunk.js",
+    "static/media/completed.png": "/maksymmf/maksymmf.github.io-react-redux/static/media/completed.6f298cca57a5a8b36055.png",
+    "index.html": "/maksymmf/maksymmf.github.io-react-redux/index.html",
+    "main.1de7d2ca.css.map": "/maksymmf/maksymmf.github.io-react-redux/static/css/main.1de7d2ca.css.map",
+    "main.de830b7d.js.map": "/maksymmf/maksymmf.github.io-react-redux/static/js/main.de830b7d.js.map",
+    "787.01782395.chunk.js.map": "/maksymmf/maksymmf.github.io-react-redux/static/js/787.01782395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de7d2ca.css",
+    "static/js/main.de830b7d.js"
+  ]
+}
